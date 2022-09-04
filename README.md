@@ -1,6 +1,6 @@
-# Cathching Fire: Fire Station Coverage in Metro Manila
+# Catching Fire: Fire Station Coverage in Metro Manila
 
-Intorduction to Geospatial Analysis Course Submission
+Introduction to Geospatial Analysis Course Submission
 
 See full report [HERE](https://github.com/mbdelaresma/geospatial-fire-station-coverage/blob/main/GSA%20Team%2014%20Final%20Report.pdf)
 
